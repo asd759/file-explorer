@@ -3,7 +3,7 @@ name = "file-explorer"
 version = "0.1.0"
 edition = "2021"
 license = "MIT"
-authors = "asd759"
+authors = ["asd759"]
 
 [dependencies]
 iced = "0.13.0"
